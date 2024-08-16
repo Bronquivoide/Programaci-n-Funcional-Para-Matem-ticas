@@ -1,8 +1,8 @@
-Programación funcional en los lenguajes C y Python aplicada a diversos problemas numéricos de matemáticas.
+En este repositorio se aplica el cómputo científico en los lenguajes C y Python a diversos problemas numéricos de matemáticas.
 
-Al presente repositorio se le asigna la siguiente organización:
+Se presenta la siguiente organización:
 
-Contiene dos archivos .pdf y varios en formato .c y .py.
+El repositorio contiene dos archivos .pdf y varios en formato .c y .py.
 
 Los archivos PDF contienen los enunciados de cada uno de los ejercicios de programación adjuntados, se presenta un archivo .pdf 
 por cada uno de los dos lenguajes que se manejan dentro de este repositorio. Lo anterior de tal forma que el archivo <<Enunciados_C_m.pdf>> contiene 
