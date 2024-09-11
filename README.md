@@ -15,3 +15,4 @@ y un nombre que hace referencia al título de este mismo enunciado de la siguien
 Ejemplo: Queremos ver cómo se programó el inciso 3. de <<Enunciados_C_m.pdf>>, el cual se titula "Los Primeros N Primos", por lo que su programa asociado se encuentra
 bajo en nombre <<C,3,Primeros Primos.c>>.
 
+Se incluyen también notebooks de Jupyter (de formato .ipynb) correspondientes a algunos programas en Python.
